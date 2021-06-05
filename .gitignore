@@ -2,3 +2,4 @@
 tensorboard/*
 data/
 __pychache__
+.DS_Store
