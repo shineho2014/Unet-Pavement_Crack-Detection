@@ -12,7 +12,11 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation
 ### UNET PAVEMENT CRACK DETECTION
 ![Unet_FCN8](https://user-images.githubusercontent.com/77031554/120881300-0376f680-c60b-11eb-8082-6f2d333e0c19.gif)
 ### UNET VS FCN 8
-![Result](https://user-images.githubusercontent.com/77031554/120881316-1be71100-c60b-11eb-8b19-e6528d340d08.gif)
+![Result](https://user-images.githubusercontent.com/77031554/120881316-1be71100-c60b-11eb-8b19-e6528d340d08.gif)  
+
+
+![Table](https://user-images.githubusercontent.com/77031554/120911999-9b85e600-c6c6-11eb-8955-52c8041aa34b.png)  
+
 
 3.Reference
 -------------
@@ -21,3 +25,5 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 
 [git][https://github.com/fyangneil/pavement-crack-detection]
+
+
